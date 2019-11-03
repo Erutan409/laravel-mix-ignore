@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-ignore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin for ignoring module(s) from being bundled with IgnorePlugin.",
   "main": "src/LaravelMixIgnore.js",
   "keywords": [
@@ -14,5 +14,10 @@
   "license": "MIT",
   "peerDependencies": {
     "laravel-mix": ">=2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erutan409/laravel-mix-ignore.git"
+  },
+  "devDependencies": {}
 }
