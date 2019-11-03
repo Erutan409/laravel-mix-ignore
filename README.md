@@ -18,8 +18,8 @@ npm install laravel-mix-ignore --save-dev
 
 | Parameter | Type |
 |---|---|
-| resource | `String` &#124; `RegExp` &#124; `Function` |
-| context (optional) | `String` &#124; `RegExp` &#124; `Function` |
+| **resource** | `String` &#124; `RegExp` &#124; `Function` |
+| **context** (optional) | `String` &#124; `RegExp` &#124; `Function` |
 
 When a `String` is given for either parameter, it's automatically converted to a `RegExp` instance.
 
